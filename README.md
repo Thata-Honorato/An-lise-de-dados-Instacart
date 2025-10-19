@@ -24,3 +24,4 @@ Neste projeto, trabalhamos com dados da Instacart, uma plataforma de entrega de 
 ### Observações
 - Todos os notebooks originais estão hospedados na plataforma TripleTen e não podem ser alterados.
 - Este repositório serve como registro do projeto e documentação do aprendizado.
+O notebook original está hospedado na plataforma TripleTen e não pode ser alterado. Este repositório serve como registro do projeto e documentação do aprendizado.
